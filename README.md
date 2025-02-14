@@ -1,0 +1,1 @@
+This repository demonstrates a subtle ZeroDivisionError in Python. The error is hidden within an if-else structure, which may make it harder to detect during initial testing. The solution shows how to handle the potential for division by zero using exception handling.
